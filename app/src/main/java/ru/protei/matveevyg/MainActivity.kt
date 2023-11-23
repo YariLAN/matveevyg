@@ -17,10 +17,12 @@ class MainActivity : AppCompatActivity() {
         val textItem1 = Note("Проснуться", "Проснуться вовремя наконец");
         val textItem2 = Note("Работа", "Покодить 8 часов");
         val textItem3 = Note("Котлин", "Сделать домашку по котлину");
+        var textItem4 = Note("Лабы", "Выгребать лабы")
 
         noteList.add(textItem1);
         noteList.add(textItem2);
         noteList.add(textItem3);
+        noteList.add(textItem4);
 
         val listView = findViewById<ListView?>(R.id.nodeLIst);
 

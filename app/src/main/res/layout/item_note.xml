@@ -5,6 +5,7 @@
               android:layout_height="match_parent">
 
     <TextView
+            android:layout_marginTop="10dp"
             android:text="TextView"
             android:layout_width="match_parent"
             android:layout_height="35dp" android:id="@+id/title_note" android:textSize="18sp" android:textStyle="bold"
