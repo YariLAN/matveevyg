@@ -1,9 +1,10 @@
-package ru.protei.matveevyg
+package ru.protei.matveevyg.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ListView
-import ru.protei.matveevyg.adapters.NoteAdapter
+import ru.protei.matveevyg.R
+import ru.protei.matveevyg.ui.adapters.NoteAdapter
 import ru.protei.matveevyg.domain.Note
 
 class MainActivity : AppCompatActivity() {

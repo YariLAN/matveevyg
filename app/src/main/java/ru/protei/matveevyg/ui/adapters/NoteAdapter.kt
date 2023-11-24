@@ -1,4 +1,4 @@
-package ru.protei.matveevyg.adapters
+package ru.protei.matveevyg.ui.adapters
 
 import android.content.Context
 import android.view.LayoutInflater
